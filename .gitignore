@@ -1,0 +1,5 @@
+# Ignored files
+.DS_STORE
+
+# Ignored directores
+Carthage/
