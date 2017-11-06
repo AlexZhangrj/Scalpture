@@ -6,7 +6,7 @@
 //  Copyright © 2017 Sendy Halim. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <AppKit/AppKit.h>
 
 //! Project version number for Scalpture.
 FOUNDATION_EXPORT double ScalptureVersionNumber;
@@ -15,5 +15,3 @@ FOUNDATION_EXPORT double ScalptureVersionNumber;
 FOUNDATION_EXPORT const unsigned char ScalptureVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <Scalpture/PublicHeader.h>
-
-
